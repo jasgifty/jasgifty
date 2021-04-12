@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jasmeet Singh 👋</h1>
 
-<!--
-**jasgifty/jasgifty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer, 
+Currently, I am in the process of acquiring my Bachelor's Degree in Software Engineering at Delhi Technological University.
+I love to contribute to open source. 
 
-Here are some ideas to get you started:
+## Tech and Tools 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://creativo-websolutions.com/my_files/2020/04/iconfinder_jquery_3069646.png"></code>
+<code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"></code>
+<code><img height="25" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"></code>
+<code><img height="25" src="https://ps.w.org/easily-generate-rest-api-url/assets/icon-128x128.png?rev=1796200"></code>
+<code><img height="25" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jasmeet-singh-23a2301b4/)     ·     [Gmail](mailto:jasmeetsingh200801@gmail.com)     ·     Discord: `Jasgifty#3485`
